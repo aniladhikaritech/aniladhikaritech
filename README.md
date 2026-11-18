@@ -11,7 +11,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://anil-adhikari.com.np/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity%2C+Digital+Forensics+%26+Auditing;🎓+BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;💻+Computer+Engineering+%26+Network+Specialist;🌐+Web+Developer+Intern+%40+Softechpark+%26+Figma;⚡+Python+Automation+%26+Hardware+Pentester+(BadUSB)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Web+Developer+Intern+%40+Softechpark+%26+Figma;Python+Automation+%26+Hardware+Pentester+(BadUSB)" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,25 +29,42 @@
     </a>
   </p>
 
-  <!-- Connect With Me Social Badges -->
+  <!-- Connect With Me - Circle Style Social Icons -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" />
     </a>
-    <a href="https://anil-adhikari.com.np/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=00F2FE" alt="Personal Website" />
+    &nbsp;&nbsp;
+    <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" title="Website Portfolio">
+      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="42" width="42" />
     </a>
-    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank">
-      <img src="https://img.shields.io/badge/Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" />
+    &nbsp;&nbsp;
+    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer" title="Credly Badges">
+      <img src="https://img.icons8.com/fluency/48/certificate.png" alt="Credly" height="42" width="42" />
     </a>
-    <a href="mailto:aniladhikari870@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    &nbsp;&nbsp;
+    <a href="mailto:aniladhikari870@gmail.com" title="Email Me">
+      <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="42" width="42" />
     </a>
-    <a href="https://github.com/aniladhikaritech" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer" title="GitHub">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
     </a>
-    <a href="https://www.instagram.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" title="Instagram">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/AnilAdhikari.350123/" target="_blank" rel="noreferrer" title="Facebook">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/dCqaE7k3Aq" target="_blank" rel="noreferrer" title="Discord">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/AnilAdhikari1" target="_blank" rel="noreferrer" title="Telegram">
+      <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="42" width="42" />
     </a>
   </p>
 </div>
@@ -349,20 +366,40 @@ I'm always open to discussing **Cybersecurity Research**, **Penetration Testing*
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" />
     </a>
-    <a href="https://anil-adhikari.com.np/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    &nbsp;&nbsp;
+    <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" title="Website Portfolio">
+      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="42" width="42" />
     </a>
-    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank">
-      <img src="https://img.shields.io/badge/Credly-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    &nbsp;&nbsp;
+    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer" title="Credly Badges">
+      <img src="https://img.icons8.com/fluency/48/certificate.png" alt="Credly" height="42" width="42" />
     </a>
-    <a href="mailto:aniladhikari870@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    &nbsp;&nbsp;
+    <a href="mailto:aniladhikari870@gmail.com" title="Email Me">
+      <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="42" width="42" />
     </a>
-    <a href="https://www.instagram.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer" title="GitHub">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" title="Instagram">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/AnilAdhikari.350123/" target="_blank" rel="noreferrer" title="Facebook">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/dCqaE7k3Aq" target="_blank" rel="noreferrer" title="Discord">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="42" width="42" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/AnilAdhikari1" target="_blank" rel="noreferrer" title="Telegram">
+      <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="42" width="42" />
     </a>
   </p>
 </div>

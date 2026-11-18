@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- 🚀 Custom Master Header Banner: 100% Matching Visual Concept -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/header_banner.svg?v=10" alt="Anil Adhikari Master Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=10" alt="Typing SVG" /></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/header_banner.svg?v=11" alt="Anil Adhikari Master Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=11" alt="Typing SVG" /></a>
 
   <br/>
 

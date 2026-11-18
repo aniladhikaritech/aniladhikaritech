@@ -1,12 +1,12 @@
 <!-- ======================================================== -->
 <!-- 🚀 ANIL ADHIKARI - PROFESSIONAL GITHUB PROFILE README   -->
-<!-- Cybersecurity | Ethical Hacking | Computer Engineering  -->
+<!-- Cybersecurity | Ethical Hacking | Networking | Auditing  -->
 <!-- ======================================================== -->
 
 <div align="center">
   <!-- Dynamic Animated SVG Header Banner -->
   <a href="https://anil-adhikari.com.np/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F2FE,50:4FACFE,100:000000&height=220&section=header&text=✧%20ANIL%20ADHIKARI%20✧&fontSize=42&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Ethical%20Hacking%20%E2%80%A2%20Computer%20Engineering%20%E2%80%A2%20Web%20Dev&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=220&section=header&text=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Ethical%20Hacking%20%E2%80%A2%20Networking%20%E2%80%A2%20Auditing%20%E2%80%A2%20Computer%20Engineering%20%E2%80%A2%20Web%20Dev&descSize=16&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
   </a>
 
   <!-- Animated Typing Subtitle -->

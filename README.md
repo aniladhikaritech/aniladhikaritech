@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- 🚀 Custom Master Header Banner: 100% Matching Visual Concept -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/header_banner.svg?v=11" alt="Anil Adhikari Master Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=11" alt="Typing SVG" /></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/header_banner.svg?v=12" alt="Anil Adhikari Master Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=12" alt="Typing SVG" /></a><!-- 📈 Live Dynamic Profile Views Increment Tracker (Increments on every profile visit) --><img src="https://komarev.com/ghpvc/?username=aniladhikaritech" width="1" height="1" alt="" style="opacity:0;position:absolute;" />
 
   <br/>
 
@@ -31,7 +31,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" title="Instagram">
+    <a href="https://www.instagram.com/aniladhikaritech/" target="_blank" rel="noreferrer" title="Instagram">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
     </a>
     &nbsp;&nbsp;
@@ -366,7 +366,7 @@ I'm always open to discussing **Cybersecurity Research**, **Penetration Testing*
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" title="Instagram">
+    <a href="https://www.instagram.com/aniladhikaritech/" target="_blank" rel="noreferrer" title="Instagram">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
     </a>
     &nbsp;&nbsp;

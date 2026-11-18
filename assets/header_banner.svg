@@ -13,6 +13,12 @@
       <stop offset="100%" stop-color="#02070E" />
     </linearGradient>
 
+    <!-- Center Ambient Radial Light for Text Pop -->
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="55%" fx="50%" fy="45%">
+      <stop offset="0%" stop-color="#184E77" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#071A2F" stop-opacity="0" />
+    </radialGradient>
+
     <!-- Wave Gradient -->
     <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#071A2F" />
@@ -48,7 +54,7 @@
 
     <!-- Badge Clip Paths -->
     <clipPath id="openToClip">
-      <rect x="28" y="20" width="150" height="28" rx="6" />
+      <rect x="28" y="20" width="148" height="28" rx="6" />
     </clipPath>
     <clipPath id="viewsClip">
       <rect x="792" y="20" width="180" height="28" rx="6" />
@@ -58,20 +64,21 @@
   <style>
     .banner-title {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-      font-size: 22px;
+      font-size: 21px;
       font-weight: 700;
       fill: #ffffff;
       text-anchor: middle;
       dominant-baseline: middle;
+      letter-spacing: 0.6px;
     }
     .banner-hero {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-      font-size: 26px;
+      font-size: 27px;
       font-weight: 800;
       fill: #ffffff;
       text-anchor: middle;
       dominant-baseline: middle;
-      letter-spacing: 0.5px;
+      letter-spacing: 0.8px;
     }
     .banner-sub {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
@@ -80,6 +87,7 @@
       fill: #ffffff;
       text-anchor: middle;
       dominant-baseline: middle;
+      letter-spacing: 0.4px;
     }
     .banner-desc {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
@@ -88,6 +96,7 @@
       fill: #ffffff;
       text-anchor: middle;
       dominant-baseline: middle;
+      letter-spacing: 0.5px;
     }
     .badge-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
@@ -100,7 +109,8 @@
 
   <!-- Base Card Background -->
   <rect width="1000" height="240" rx="14" fill="url(#cardBg)" />
-  <rect width="1000" height="240" rx="14" fill="url(#capsuleGrad)" opacity="0.6" />
+  <rect width="1000" height="240" rx="14" fill="url(#capsuleGrad)" opacity="0.65" />
+  <rect width="1000" height="240" rx="14" fill="url(#centerGlow)" />
   <rect x="0.5" y="0.5" width="999" height="239" rx="13.5" fill="none" stroke="#1E3E62" stroke-width="1.2" stroke-opacity="0.6" />
 
   <!-- Animated Bottom Waves -->
@@ -112,8 +122,8 @@
                 M0 190 Q 250 220 500 198 T 1000 205 L 1000 240 L 0 240 Z" />
     </path>
   </g>
-  <g opacity="0.3">
-    <path fill="url(#waveGrad)">
+  <g opacity="0.30">
+    <path fill="url(#waveGrad)" stroke="#00F2FE" stroke-width="0.8" stroke-opacity="0.35">
       <animate attributeName="d" dur="20s" repeatCount="indefinite"
         values="M0 208 Q 250 188 500 218 T 1000 198 L 1000 240 L 0 240 Z;
                 M0 196 Q 250 226 500 196 T 1000 216 L 1000 240 L 0 240 Z;
@@ -123,21 +133,21 @@
 
   <!-- [1] TOP-LEFT BADGE: OPEN TO PROJECT -->
   <g filter="url(#cardShadow)" class="hover-icon">
-    <a xlink:href="https://github.com/aniladhikaritech" target="_blank">
+    <a xlink:href="https://github.com/aniladhikaritech?tab=repositories" target="_blank">
       <g clip-path="url(#openToClip)">
         <rect x="28" y="20" width="78" height="28" fill="#161B22" />
         <path fill="#FFFFFF" transform="translate(36, 26) scale(0.65)" d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
         <text x="58" y="35" class="badge-text" fill="#E6EDF3" font-size="10.5" font-weight="700" letter-spacing="0.6px">OPEN TO</text>
-        <rect x="106" y="20" width="72" height="28" fill="url(#greenGrad)" />
+        <rect x="106" y="20" width="70" height="28" fill="url(#greenGrad)" />
         <text x="116" y="35" class="badge-text" fill="#FFFFFF" font-size="10.5" font-weight="800" letter-spacing="0.5px">PROJECT</text>
       </g>
-      <rect x="28" y="20" width="150" height="28" rx="6" fill="none" stroke="#30363D" stroke-width="0.9" />
+      <rect x="28" y="20" width="148" height="28" rx="6" fill="none" stroke="#30363D" stroke-width="0.9" />
     </a>
   </g>
 
   <!-- [2] TOP-RIGHT BADGE: PROFILE VIEWS -->
   <g filter="url(#cardShadow)" class="hover-icon">
-    <a xlink:href="https://github.com/aniladhikaritech" target="_blank">
+    <a xlink:href="https://komarev.com/ghpvc/?username=aniladhikaritech" target="_blank">
       <g clip-path="url(#viewsClip)">
         <rect x="792" y="20" width="130" height="28" fill="#161B22" />
         <path fill="#58A6FF" transform="translate(802, 27) scale(0.68)" d="M10 4.5C5.5 4.5 1.73 7.61 0 12c1.73 4.39 5.5 7.5 10 7.5s8.27-3.11 10-7.5c-1.73-4.39-5.5-7.5-10-7.5zm0 12.5c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>
@@ -151,7 +161,7 @@
 
   <!-- [3] BOTTOM-LEFT: INSTAGRAM LOGO (DARK) -->
   <g transform="translate(28, 174)" filter="url(#cardShadow)" class="hover-icon">
-    <a xlink:href="https://www.instagram.com/" target="_blank">
+    <a xlink:href="https://www.instagram.com/aniladhikaritech/" target="_blank">
       <rect width="42" height="42" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1.1" />
       <rect x="9.5" y="9.5" width="23" height="23" rx="6.5" fill="none" stroke="url(#instaGrad)" stroke-width="2.3" />
       <circle cx="21" cy="21" r="5.3" fill="none" stroke="url(#instaGrad)" stroke-width="2.3" />
@@ -172,7 +182,7 @@
     </a>
   </g>
 
-  <!-- CENTER TYPOGRAPHY HIERARCHY (100% MATCHING ORIGINAL BANNER STYLE) -->
+  <!-- CENTER TYPOGRAPHY HIERARCHY (100% SOLID PURE WHITE #FFFFFF) -->
   <!-- Line 1: Hi There -->
   <text x="500" y="54" class="banner-title">Hi There</text>
 

@@ -5,9 +5,9 @@
 
 <div align="center">
   <!-- Dynamic Animated SVG Header Banner -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=205&section=header&text=Hi%20There%20%F0%9F%91%8B%20-nl-%20I%27m%20ANIL%20ADHIKARI&fontSize=26&fontColor=ffffff&fontAlignY=22,41&desc=Cybersecurity%20%E2%80%A2%20Computer%20Engineering&descSize=19&descAlignY=61&descAlign=50" alt="Anil Adhikari Banner" width="100%"/></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=180&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=24&fontColor=ffffff&fontAlignY=20,38&desc=Cybersecurity%20%E2%80%A2%20Computer%20Engineering&descSize=16&descAlignY=56&descAlign=50" alt="Anil Adhikari Banner" width="100%"/></a>
   <!-- Animated Typing Subtitle -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Web+Developer+Intern+%40+Softechpark+%26+Figma;Python+Automation+%26+Hardware+Pentester+(BadUSB)" alt="Typing SVG" /></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=30&lines=Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Web+Developer+Intern+%40+Softechpark+%26+Figma;Python+Automation+%26+Hardware+Pentester+(BadUSB)" alt="Typing SVG" /></a>
 
   <br/>
 

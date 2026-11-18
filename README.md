@@ -1,12 +1,12 @@
 <!-- ======================================================== -->
 <!-- 🚀 ANIL ADHIKARI - PROFESSIONAL GITHUB PROFILE README   -->
-<!-- Cybersecurity | Ethical Hacking | Networking | Auditing  -->
+<!-- Cybersecurity | Computer Engineering                    -->
 <!-- ======================================================== -->
 
 <div align="center">
   <!-- Dynamic Animated SVG Header Banner -->
   <a href="https://anil-adhikari.com.np/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=220&section=header&text=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Ethical%20Hacking%20%E2%80%A2%20Networking%20%E2%80%A2%20Auditing%20%E2%80%A2%20Computer%20Engineering%20%E2%80%A2%20Web%20Dev&descSize=16&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=220&section=header&text=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Computer%20Engineering&descSize=20&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
   </a>
 
   <!-- Animated Typing Subtitle -->
@@ -408,6 +408,8 @@ I'm always open to discussing **Cybersecurity Research**, **Penetration Testing*
 
 <div align="center">
   <!-- Dynamic Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:000000,50:4FACFE,100:00F2FE&height=100&section=footer" width="100%"/>
-  <p align="center"><i>"Continuous learning, ethical integrity, and technological innovation."</i><br/><b>Designed with ❤️ by Anil Adhikari</b></p>
+  <a href="https://anil-adhikari.com.np/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=100&section=footer" alt="Footer Wave" width="100%"/>
+  </a>
+  <p align="center"><i>"Continuous learning, ethical integrity, and technological innovation."</i><br/>Designed by <b><a href="https://anil-adhikari.com.np/" target="_blank">Anil Adhikari</a></b></p>
 </div>

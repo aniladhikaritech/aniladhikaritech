@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Dynamic Animated SVG Header Banner -->
   <a href="https://anil-adhikari.com.np/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=220&section=header&text=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Computer%20Engineering&descSize=20&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=220&section=header&text=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7&fontSize=34&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Computer%20Engineering&descSize=24&descAlignY=58&descAlign=50" alt="Anil Adhikari Banner" width="100%"/>
   </a>
 
   <!-- Animated Typing Subtitle -->
@@ -409,7 +409,7 @@ I'm always open to discussing **Cybersecurity Research**, **Penetration Testing*
 <div align="center">
   <!-- Dynamic Footer Wave -->
   <a href="https://anil-adhikari.com.np/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0e1e38,100:020617&height=100&section=footer" alt="Footer Wave" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=100&section=footer" alt="Footer Wave" width="100%"/>
   </a>
-  <p align="center"><i>"Continuous learning, ethical integrity, and technological innovation."</i><br/>Designed by <b><a href="https://anil-adhikari.com.np/" target="_blank">Anil Adhikari</a></b></p>
+  <p align="center"><i>"Continuous learning, ethical integrity, and technological innovation."</i><br/>Designed by <b>Anil Adhikari</b></p>
 </div>

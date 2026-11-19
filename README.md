@@ -369,7 +369,7 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Profile Live Summary Details Card -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniladhikaritech&theme=2077" alt="Summary Of My GitHub Live Graph" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniladhikaritech&theme=2077&name=aniladhikaritech" alt="Summary Of My GitHub Live Graph" />
   </a>
 </div>
 

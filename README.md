@@ -22,7 +22,7 @@
 
   <!-- Personal Motto / Tagline -->
   <p align="center">
-    <i>✨ 😊 &nbsp;<b>"I am an energetic multitasker dedicated to learning something new every single day."</b>&nbsp; 😊 ✨</i>
+    <i>😊 &nbsp;<b>"I am an energetic multitasker dedicated to learning something new every single day."</b>&nbsp; 😊</i>
   </p>
 
   <br/>

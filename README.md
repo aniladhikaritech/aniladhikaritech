@@ -28,8 +28,8 @@
   <br/>
 
   <!-- Connect With Me - Social Links -->
+  <h3 align="center">🤝 Let's Connect & Collaborate</h3>
   <p align="center">
-    <b>🤝 Let's Connect & Collaborate!</b><br/>
     <i>I'm always open to discussing <b>Cybersecurity Research</b>, <b>Penetration Testing</b>, <b>Network Architectures</b>, <b>Web Development Projects</b>, or <b>Exciting Tech Opportunities</b>.</i>
   </p>
 

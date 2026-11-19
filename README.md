@@ -381,7 +381,7 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Profile Trophy -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://github-profile-trophy-nu.vercel.app/?username=aniladhikaritech&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+    <img width="98%" src="https://github-profile-trophy-nu.vercel.app/?username=aniladhikaritech&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub Trophies" />
   </a>
 </div>
 

@@ -307,24 +307,39 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 
 ### 📊 GitHub Activity & Statistics
 
+<br/>
+
+#### 📌 1. Overall GitHub Performance & Most Used Languages
+*Real-time breakdown of overall repository metrics, total commits, pull requests, issues, and primary programming languages.*
+
 <div align="center">
   <!-- GitHub Overall Stats & Top Languages Side-by-Side -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7's%20GitHub%20Stats&show_icons=true&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&border_color=184E77&count_private=true&include_all_commits=true&hide_border=false" alt="✧ ANIL ADHIKARI ✧'s GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7's%20GitHub%20Stats&show_icons=true&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&border_color=184E77&count_private=true&hide_border=false" alt="✧ ANIL ADHIKARI ✧'s GitHub Stats" />
   </a>
   <a href="https://github.com/aniladhikaritech">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=compact&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&hide_border=false" alt="Top Languages" />
   </a>
-  
-  <br/><br/>
+</div>
 
+<br/>
+
+#### 🔥 2. Contribution Streak & Coding Consistency
+*Tracking continuous development frequency, current active daily streak, and longest recorded streak.*
+
+<div align="center">
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/aniladhikaritech">
     <img width="98%" src="https://streak-stats.demolab.com?user=aniladhikaritech&background=071A2F&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=184E77&stroke=00F2FE&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00F2FE&hide_border=false" alt="GitHub Streak Stats" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
+#### 🍩 3. Detailed Language Distribution (Repo vs Commit)
+*Visual distribution of programming languages calculated by total repositories created versus total commits pushed.*
+
+<div align="center">
   <!-- Top Languages Distribution (Donut Breakdown) -->
   <a href="https://github.com/aniladhikaritech">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Repo" />
@@ -332,26 +347,41 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
   <a href="https://github.com/aniladhikaritech">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Commit" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
+#### 📈 4. Interactive Daily Contribution & Activity Trend
+*Interactive 30-day activity curve showing daily development velocity and commit density.*
+
+<div align="center">
   <!-- GitHub Activity Contribution Graph -->
   <a href="https://github.com/aniladhikaritech">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7%20Contribution%20Graph&bg_color=071A2F&color=00F2FE&line=00F2FE&point=FFFFFF&area=false&hide_border=false&border_color=184E77" alt="✧ ANIL ADHIKARI ✧ Contribution Graph" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
+#### 🌐 5. GitHub Profile Live Summary & Annual Activity Wave
+*Comprehensive high-level snapshot of account tenure, total public repositories, and annual contribution waves.*
+
+<div align="center">
   <!-- GitHub Profile Live Summary Details Card -->
   <a href="https://github.com/aniladhikaritech">
     <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniladhikaritech&theme=2077" alt="Summary Of My GitHub Live Graph" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
+#### 🏆 6. GitHub Profile Trophies & Program Milestones
+*Gamified achievement badges reflecting contributions, repositories, commits, and developer milestones.*
+
+<div align="center">
   <!-- GitHub Profile Trophy -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://github-profile-trophy-nu.vercel.app/?username=aniladhikaritech&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+    <img width="98%" src="https://github-profile-trophy-nu.vercel.app/?username=aniladhikaritech&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 

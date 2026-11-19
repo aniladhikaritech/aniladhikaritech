@@ -9,10 +9,7 @@
   <br/>
   <a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
 
-  <!-- Personal Motto / Tagline (Hero Identity) -->
-  <p align="center">
-    <i>😊 &nbsp;<b>"I am an energetic multitasker dedicated to learning something new every single day."</b>&nbsp; 😊</i>
-  </p>
+  <br/>
 
   <!-- Profile Visitor Counter & Status Badges (Author Status Bar) -->
   <p align="center">
@@ -47,8 +44,10 @@
 
 ### ✍️ Short Introduction
 
-> **"I am an energetic multitasker dedicated to learning something new every single day."**  
-> Based in **Kathmandu, Nepal**, I am currently pursuing **BSc (Hons) Ethical Hacking & Cybersecurity** alongside my deep academic background in **Computer Engineering**. I currently work as a **Web Developer Intern at Softechpark Company** & design with **Figma**, while actively mastering **Google IT Automation with Python Professional**.  
+> [!TIP]
+> 💡 **"I am an energetic multitasker dedicated to learning something new every single day."**  
+>
+> Based in **Kathmandu, Nepal 🇳🇵**, I am currently pursuing **BSc (Hons) Ethical Hacking & Cybersecurity** alongside my deep academic background in **Computer Engineering**. I currently work as a **Web Developer Intern at Softechpark Company** & design with **Figma**, while actively mastering **Google IT Automation with Python Professional**.  
 >
 > My passion bridges offensive & defensive cybersecurity, hands-on penetration testing labs, microcomputer architecture, structured network cabling, hardware security research with Arduino BadUSB, and full-stack web applications. I strive to sharpen my skills, solve challenging problems, and build reliable digital solutions.
 

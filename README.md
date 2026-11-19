@@ -23,7 +23,7 @@
   <!-- Connect With Me - Call To Action -->
   <h3 align="center">🤝 Let's Connect & Collaborate</h3>
   <p align="center">
-    <i>I'm always open to discussing <b>Cybersecurity Research</b>, <b>Penetration Testing</b>, <b>Network Architectures</b>, <b>Web Development Projects</b>, or <b>Exciting Tech Opportunities</b>.</i>
+    <i>I'm always open to discussing <b>Offensive, Defensive Cybersecurity</b>, <b>Network Security</b>, <b>Digital Forensics</b>, and <b>Technology Projects</b>, while welcoming meaningful collaborations, knowledge sharing, and opportunities to learn and grow.</i>
   </p>
 
   <!-- Clean Social Icons (No Underline Artifacts) -->

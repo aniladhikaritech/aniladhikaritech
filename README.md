@@ -71,24 +71,54 @@
 
 ### ✍️ Short Introduction
 
-> **"I am an energetic multitasker dedicated to learning something new every single day."**  
-> Based in **Kathmandu, Nepal**, I am currently pursuing **BSc (Hons) Ethical Hacking & Cybersecurity** alongside my deep academic background in **Computer Engineering**. I currently work as a **Web Developer Intern at Softechpark Company** & design with **Figma**, while actively mastering **Google IT Automation with Python Professional**.  
->
-> My passion bridges offensive & defensive cybersecurity, hands-on penetration testing labs, microcomputer architecture, structured network cabling, hardware security research with Arduino BadUSB, and full-stack web applications. I strive to sharpen my skills, solve challenging problems, and build reliable digital solutions.
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <img src="assets/avatar_badge.svg" width="125" height="125" alt="Anil Adhikari" />
+    </td>
+    <td valign="middle">
+      <h2>&nbsp;Anil Adhikari</h2>
+      <p><b>&nbsp;Cybersecurity Enthusiast | Ethical Hacker</b></p>
+      <p>
+        &nbsp;
+        <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Certified_CC-(ISC)2-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" height="26" alt="Certified CC (ISC2)" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Cisco-Cybersecurity-0091FF?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco Cybersecurity" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Ethical-Hacker-FF1744?style=for-the-badge&logo=hackthebox&logoColor=white" height="26" alt="Ethical Hacker" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 🎓 **BSc (Hons) Ethical Hacking and Cybersecurity Student** at **Softwarica College** *(in collaboration with Coventry University)*, passionate about **Cybersecurity**, **Data Protection**, and **Digital Forensics**.
+
+<p>
+  📍 <b>Kathmandu, Nepal</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer"><b>/in/aniladhikaritech</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🐙 <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer"><b>github.com/aniladhikaritech</b></a>
+</p>
 
 ---
 
-### 🙇 About Me
+### 👤 About Me
 
-```yaml
-Name: Anil Adhikari
-Location: Kathmandu, Nepal 🇳🇵
-Field: Cybersecurity, Digital Forensics, Computer Engineering & Web Development
-Degree: BSc (Hons) Ethical Hacking & Cybersecurity | Diploma in Computer Engineering
-Current Role: Web Developer Intern @ Softechpark Company & Figma Prototyping
-Certifications: (ISC)² CC | Cisco Ethical Hacker | Cisco Networking & OS | APIsec ACP
-Current Goal: Mastering Google IT Automation with Python Professional & Advanced VAPT
-```
+An ethical hacker, cybersecurity professional, and lifelong learner.  
+I love exploring new technologies, securing systems, and sharing knowledge.
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-00F2FE?style=for-the-badge&logo=shield&logoColor=black&labelColor=071A2F" alt="Cybersecurity" />&nbsp;
+  <img src="https://img.shields.io/badge/Ethical_Hacking-00F2FE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=071A2F" alt="Ethical Hacking" />&nbsp;
+  <img src="https://img.shields.io/badge/Digital_Forensics-00F2FE?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=071A2F" alt="Digital Forensics" />&nbsp;
+  <img src="https://img.shields.io/badge/Risk_Management-00F2FE?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=071A2F" alt="Risk Management" />&nbsp;
+  <img src="https://img.shields.io/badge/Data_Protection-00F2FE?style=for-the-badge&logo=auth0&logoColor=white&labelColor=071A2F" alt="Data Protection" />
+</p>
 
 - 🔭 **I’m currently working on**: Web Development & UI/UX prototyping at **Softechpark Company**, building modern web tools & interactive web applications.
 - 🌱 **I’m currently learning**: **Google IT Automation with Python Professional**, AI-driven SOC operations, and advanced network penetration testing.

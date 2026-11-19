@@ -22,7 +22,12 @@
 
   <br/>
 
-  <!-- Connect With Me - Circle Style Social Icons -->
+  <!-- Connect With Me - Social Links -->
+  <p align="center">
+    <b>🤝 Let's Connect & Collaborate!</b><br/>
+    <i>I'm always open to discussing <b>Cybersecurity Research</b>, <b>Penetration Testing</b>, <b>Network Architectures</b>, <b>Web Development Projects</b>, or <b>Exciting Tech Opportunities</b>.</i>
+  </p>
+
   <p align="center">
     <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" />
@@ -398,53 +403,7 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
   <img src="https://img.shields.io/badge/GitHub_Achievement-Pair_Extraordinaire-a371f7?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
 </div>
 
----
-
-### 🤝 Let's Connect & Collaborate!
-
-I'm always open to discussing **Cybersecurity Research**, **Penetration Testing**, **Network Architectures**, **Web Development Projects**, or **Exciting Tech Opportunities**.
-
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" title="Website Portfolio">
-      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer" title="Credly Badges">
-      <img src="https://img.icons8.com/fluency/48/certificate.png" alt="Credly" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:aniladhikari870@gmail.com" title="Email Me">
-      <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer" title="GitHub">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/aniladhikaritech/" target="_blank" rel="noreferrer" title="Instagram">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/AnilAdhikari.350123/" target="_blank" rel="noreferrer" title="Facebook">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.gg/dCqaE7k3Aq" target="_blank" rel="noreferrer" title="Discord">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/AnilAdhikari1" target="_blank" rel="noreferrer" title="Telegram">
-      <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="42" width="42" />
-    </a>
-  </p>
-</div>
-
-<br/>
+<br/><br/>
 
 <div align="center">
   <!-- Dynamic Footer Wave -->

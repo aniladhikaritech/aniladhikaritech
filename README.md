@@ -4,21 +4,21 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Dynamic Animated SVG Header Banner -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&v=19" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=19" alt="Typing SVG" /></a>
-
-  <br/>
-
-  <!-- Profile Visitor Counter & Status Badges -->
+  <!-- Profile Visitor Counter & Status Badges (Top Placement) -->
   <p align="center">
     <a href="https://github.com/aniladhikaritech">
-      <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A//komarev.com/ghpvc/%3Fusername%3Daniladhikaritech&query=%28//%2A%5Blocal-name%28%29%3D%22text%22%5D%29%5B3%5D&label=PROFILE%20VIEWS&style=for-the-badge&color=00F2FE&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiA0LjVDNyA0LjUgMi43MyA3LjYxIDEgMTJjMS43MyA0LjM5IDYgNy41IDExIDcuNXM5LjI3LTMuMTEgMTEtNy41Yy0xLjczLTQuMzktNi03LjUtMTEtNy41ek0xMiAxN2MtMi43NiAwLTUtMi4yNC01LTVzMi4yNC01IDUtNSA1IDIuMjQgNSA1LTIuMjQgNS01IDV6bTAtOGMtMS42NiAwLTMgMS4zNC0zIDNzMS4zNCAzIDMgMyAzLTEuMzQgMy0zLTEuMzQtMy0zLTN6Ii8%2BPC9zdmc%2B" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
     </a>
     &nbsp;
     <a href="https://github.com/aniladhikaritech?tab=repositories">
       <img src="https://img.shields.io/badge/Open_To-Projects-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open To Projects" />
     </a>
   </p>
+
+  <br/>
+
+  <!-- Dynamic Animated SVG Header Banner -->
+  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&v=19" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=19" alt="Typing SVG" /></a>
 
   <br/>
 

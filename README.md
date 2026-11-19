@@ -5,70 +5,41 @@
 
 <div align="center">
   <!-- Dynamic Animated SVG Header Banner -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&animation=twinkling&v=21" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&animation=twinkling&v=21" alt="Anil Adhikari Banner" width="100%"/></a>
+  <br/>
+  <a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
 
-  <br/><br/>
-
-  <!-- Profile Visitor Counter & Status Badges (High Contrast & Clear Readability) -->
-  <p align="center">
-    <a href="https://github.com/aniladhikaritech">
-      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=007ec6&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/aniladhikaritech?tab=repositories">
-      <img src="https://img.shields.io/badge/Open_To-Projects-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="Open To Projects" />
-    </a>
-  </p>
-
-  <!-- Personal Motto / Tagline -->
+  <!-- Personal Motto / Tagline (Hero Identity) -->
   <p align="center">
     <i>😊 &nbsp;<b>"I am an energetic multitasker dedicated to learning something new every single day."</b>&nbsp; 😊</i>
   </p>
 
+  <!-- Profile Visitor Counter & Status Badges (Author Status Bar) -->
+  <p align="center">
+    <a href="https://github.com/aniladhikaritech"><img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=007ec6&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/aniladhikaritech?tab=repositories"><img src="https://img.shields.io/badge/Open_To-Projects-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="Open To Projects" /></a>
+  </p>
+
   <br/>
 
-  <!-- Connect With Me - Social Links -->
+  <!-- Connect With Me - Call To Action -->
   <h3 align="center">🤝 Let's Connect & Collaborate</h3>
   <p align="center">
     <i>I'm always open to discussing <b>Cybersecurity Research</b>, <b>Penetration Testing</b>, <b>Network Architectures</b>, <b>Web Development Projects</b>, or <b>Exciting Tech Opportunities</b>.</i>
   </p>
 
+  <!-- Clean Social Icons (No Underline Artifacts) -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" title="Website Portfolio">
-      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer" title="Credly Badges">
-      <img src="https://img.icons8.com/fluency/48/certificate.png" alt="Credly" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:aniladhikari870@gmail.com" title="Email Me">
-      <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer" title="GitHub">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/aniladhikaritech/" target="_blank" rel="noreferrer" title="Instagram">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/AnilAdhikari.350123/" target="_blank" rel="noreferrer" title="Facebook">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.gg/dCqaE7k3Aq" target="_blank" rel="noreferrer" title="Discord">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="42" width="42" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/AnilAdhikari1" target="_blank" rel="noreferrer" title="Telegram">
-      <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="42" width="42" />
-    </a>
+    <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" title="Website Portfolio"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://www.credly.com/users/aniladhikari/badges/credly" target="_blank" rel="noreferrer" title="Credly Badges"><img src="https://img.icons8.com/fluency/48/certificate.png" alt="Credly" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="mailto:aniladhikari870@gmail.com" title="Email Me"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/aniladhikaritech" target="_blank" rel="noreferrer" title="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/aniladhikaritech/" target="_blank" rel="noreferrer" title="Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/AnilAdhikari.350123/" target="_blank" rel="noreferrer" title="Facebook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://discord.gg/dCqaE7k3Aq" target="_blank" rel="noreferrer" title="Discord"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="42" width="42" /></a>&nbsp;&nbsp;
+    <a href="https://t.me/AnilAdhikari1" target="_blank" rel="noreferrer" title="Telegram"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="42" width="42" /></a>
   </p>
 </div>
 

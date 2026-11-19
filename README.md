@@ -79,14 +79,23 @@
                   Exploring Digital Forensics, Network Security & Security Auditing | Practising Through Hands-on Labs & Security Projects
 ```
 
-- 🔭 **I’m currently working on**: Web Development & UI/UX prototyping at **Softechpark Company**, building modern web tools & interactive web applications.
-- 🌱 **I’m currently learning**: **Google IT Automation with Python Professional**, AI-driven SOC operations, and advanced network penetration testing.
-- 👯 **I’m looking to collaborate on**: Open-source Security Tools, VAPT Labs, Hardware Hacking (Arduino BadUSB / HID Injection), and Python Automation pipelines.
-- 🤝 **I’m looking for help with**: Cloud Penetration Testing, Binary Exploitation, and Red Teaming methodologies.
-- 👨‍💻 **All of my projects are live at**: [anil-adhikari.com.np](https://anil-adhikari.com.np/) and on my [GitHub Repositories](https://github.com/aniladhikaritech?tab=repositories).
-- 💬 **Ask me about**: **Cybersecurity & Ethical Hacking**, **Computer Hardware & Networking**, **Cisco Packet Tracer**, **Python**, **JavaScript**, **React**, and **HTML5/CSS3**.
-- 📫 **How to reach me**: Drop an email at **[aniladhikari870@gmail.com](mailto:aniladhikari870@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/aniladhikaritech/)**.
-- ⚡ **Fun fact**: *A person with a happy personality and a heavy soul—sometimes it gets weird, but I'm always fueled by black coffee, terminal screens, packet captures, and microcontrollers!* ☕⚡
+- 🤝 **Looking to collaborate on**: **Open-Source Cybersecurity Tools**, **VAPT Labs**, **Hardware Hacking** *(Arduino BadUSB / HID Injection)*, and **Python Automation Projects**.
+
+- 🎯 **Looking to learn more about**: **Cloud Penetration Testing**, **Binary Exploitation**, **Advanced VAPT**, and **Red Teaming Methodologies**.
+
+- 💬 **Ask me about**: **Cybersecurity & Ethical Hacking**, **Network Security**, **Computer Hardware**, **Digital Forensics**, and **Information Security**.
+
+- 🔬 **Interested in exploring**: **Emerging Cyber Threats**, **Vulnerability Research**, **Security Testing**, **Hardware Security**, and **Practical Security Solutions**.
+
+- 🛠️ **Hands-on learning**: **Cybersecurity Labs**, **Network Analysis**, **Linux Environments**, **Penetration Testing Exercises**, and **Python-Based Automation**.
+
+- 🌱 **Currently learning**: **Penetration Testing**, **Security Fundamentals**, **Python Automation**, and **Digital Forensics**.
+
+- 🌐 **Knowledge sharing**: Always interested in exchanging technical knowledge, discussing new technologies, and learning from the **Cybersecurity Community**.
+
+- 📫 **How to reach me**: Drop a message via contact form at [**anil-adhikari.com.np**](https://anil-adhikari.com.np/) or connect on [**LinkedIn**](https://www.linkedin.com/in/aniladhikaritech/).
+
+- ⚡ **Fun fact**: *A curious mind, a calm personality, and an endless passion for technology — usually fueled by black coffee, terminal screens, packet captures, and microcontrollers!* ☕⚡
 
 ---
 

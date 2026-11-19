@@ -44,12 +44,12 @@
 ### ✍️ Short Introduction
 
 > [!TIP]
-> 🚫 **Zero Trust** — *Just because you can click it doesn't mean you should.*<br/>
-> 🌐 **Digital Privacy** — *If a service is free, think twice about what you're paying with.*<br/>
-> 🔑 **Credential Security** — *Your password isn't strong just because you can't remember it.*<br/>
-> 🔍 **Adversarial Mindset** — *Knowing how something works is good. Knowing how it can fail is better.*<br/>
-> ⚠️ **The Human Element** — *The strongest security system can still fail because of the weakest human decision.*<br/>
-> 🛡️ **Social Engineering** — *Hackers don't always break systems; sometimes, they simply understand people better.*
+> 🚫 Just because you can click it doesn't mean you should.<br/>
+> 🌐 If a service is free, think twice about what you're paying with.<br/>
+> 🔑 Your password isn't strong just because you can't remember it.<br/>
+> 🔍 Knowing how something works is good. Knowing how it can fail is better.<br/>
+> ⚠️ The strongest security system can still fail because of the weakest human decision.<br/>
+> 🛡️ Hackers don't always break systems; sometimes, they simply understand people better.
 >
 > 💡 $\color{red}{\textbf{\textsf{"Driven by curiosity, committed to continuous learning, and passionate about building a more secure digital world."}}}$  
 >

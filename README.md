@@ -71,10 +71,10 @@
 
 ```yaml
 📍 Location: Kathmandu, Nepal 🇳🇵
-🛡️ Fields of Interest: Offensive & Defensive Cybersecurity | Digital Forensics | Network Security | Information Security
-🎓 Education: BSc (Hons) Ethical Hacking & Cybersecurity | Higher School Computer Engineering
-💼 Current Status: Cybersecurity Student | Actively Learning Ethical Hacking, Network Security & Digital Forensics
+🎓 Degree: BSc (Hons) Ethical Hacking & Cybersecurity | Higher School Computer Engineering
 🏅 Certifications: (ISC)² Certified in Cybersecurity (CC) | Cisco Ethical Hacker, Networking & Operating Systems | APIsec
+💼 Current Status: Cybersecurity Student | Actively Learning Ethical Hacking, Network Security & Digital Forensics
+🛡️ Fields: Offensive & Defensive Cybersecurity | Digital Forensics | Network Security | Information Security
 🎯 Current Focus: Strengthening Cybersecurity Fundamentals | Developing Practical Ethical Hacking & Penetration Testing Skills | Exploring Digital Forensics, Network Security & Security Auditing | Practising Through Hands-on Labs & Security Projects
 ```
 

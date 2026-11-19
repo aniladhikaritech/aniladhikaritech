@@ -46,9 +46,11 @@
 > [!TIP]
 > 💡 **"I am an energetic multitasker dedicated to learning something new every single day."**  
 >
-> Based in **Kathmandu, Nepal 🇳🇵**, I am currently pursuing **BSc (Hons) Ethical Hacking & Cybersecurity** alongside my deep academic background in **Computer Engineering**. I currently work as a **Web Developer Intern at Softechpark Company** & design with **Figma**, while actively mastering **Google IT Automation with Python Professional**.  
+> Based in **Kathmandu, Nepal 🇳🇵**, I am currently pursuing a **BSc (Hons) in Ethical Hacking and Cybersecurity** at **Softwarica College of IT & E-Commerce**, in collaboration with **Coventry University, UK**, with an academic foundation in **Computer Engineering**.  
 >
-> My passion bridges offensive & defensive cybersecurity, hands-on penetration testing labs, microcomputer architecture, structured network cabling, hardware security research with Arduino BadUSB, and full-stack web applications. I strive to sharpen my skills, solve challenging problems, and build reliable digital solutions.
+> My interests lie in both **offensive and defensive cybersecurity**, with a strong focus on ethical hacking, penetration testing, network security, digital forensics, and information security. I actively explore hands-on security labs, Linux environments, networking fundamentals, microcomputer architecture, and hardware security research, including Arduino-based BadUSB experiments.  
+>
+> I am continuously expanding my technical knowledge through practical learning, cybersecurity research, and hands-on projects, with the goal of developing effective security skills, understanding emerging threats, and contributing to a safer digital environment.
 
 ---
 

@@ -44,14 +44,14 @@
 ### ✍️ Short Introduction
 
 > [!TIP]
-> 💡 $\color{red}{\textbf{\textsf{"Driven by curiosity, committed to continuous learning, and passionate about building a more secure digital world."}}}$  
+> - 🛡️ Hackers don't always break systems; sometimes, they simply understand people better.
+> - ⚠️ The strongest security system can still fail because of the weakest human decision.
+> - 🔍 Knowing how something works is good. Knowing how it can fail is better.
+> - 🔑 Your password isn't strong just because you can't remember it.
+> - 🌐 If a service is free, think twice about what you're paying with.
+> - 🚫 Just because you can click it doesn't mean you should.
 >
-> - 🛡️ **Hackers don't always break systems; sometimes, they simply understand people better.**
-> - ⚠️ **The strongest security system can still fail because of the weakest human decision.**
-> - 🔍 **Knowing how something works is good. Knowing how it can fail is better.**
-> - 🔑 **Your password isn't strong just because you can't remember it.**
-> - 🌐 **If a service is free, think twice about what you're paying with.**
-> - 🚫 **Just because you can click it doesn't mean you should.**
+> 💡 $\color{red}{\textbf{\textsf{"Driven by curiosity, committed to continuous learning, and passionate about building a more secure digital world."}}}$  
 >
 > <p align="justify">
 > Based in <b>Kathmandu, Nepal 🇳🇵</b>, I am currently pursuing a <b>BSc (Hons) in Ethical Hacking and Cybersecurity</b> at <b>Softwarica College of IT & E-Commerce</b>, in collaboration with <b>Coventry University, UK</b>, with an academic foundation in <b>Computer Engineering</b>.

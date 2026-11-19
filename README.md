@@ -46,11 +46,17 @@
 > [!TIP]
 > 💡 $\color{red}{\textbf{\textsf{"I am an energetic multitasker dedicated to learning something new every single day."}}}$  
 >
-> Based in **Kathmandu, Nepal 🇳🇵**, I am currently pursuing a **BSc (Hons) in Ethical Hacking and Cybersecurity** at **Softwarica College of IT & E-Commerce**, in collaboration with **Coventry University, UK**, with an academic foundation in **Computer Engineering**.  
+> <p align="justify">
+> Based in <b>Kathmandu, Nepal 🇳🇵</b>, I am currently pursuing a <b>BSc (Hons) in Ethical Hacking and Cybersecurity</b> at <b>Softwarica College of IT & E-Commerce</b>, in collaboration with <b>Coventry University, UK</b>, with an academic foundation in <b>Computer Engineering</b>.
+> </p>
 >
-> My interests lie in both **offensive and defensive cybersecurity**, with a strong focus on ethical hacking, penetration testing, network security, digital forensics, and information security. I actively explore hands-on security labs, Linux environments, networking fundamentals, microcomputer architecture, and hardware security research, including Arduino-based BadUSB experiments.  
+> <p align="justify">
+> My interests lie in both <b>offensive and defensive cybersecurity</b>, with a strong focus on ethical hacking, penetration testing, network security, digital forensics, and information security. I actively explore hands-on security labs, Linux environments, networking fundamentals, microcomputer architecture, and hardware security research, including Arduino-based BadUSB experiments.
+> </p>
 >
+> <p align="justify">
 > I am continuously expanding my technical knowledge through practical learning, cybersecurity research, and hands-on projects, with the goal of developing effective security skills, understanding emerging threats, and contributing to a safer digital environment.
+> </p>
 
 ---
 

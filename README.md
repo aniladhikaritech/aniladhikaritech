@@ -4,7 +4,12 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Profile Visitor Counter & Status Badges (Cyber Bold Style) -->
+  <!-- Dynamic Animated SVG Header Banner -->
+  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&animation=twinkling&v=21" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
+
+  <br/><br/>
+
+  <!-- Profile Visitor Counter & Status Badges (Optimal Placement) -->
   <p align="center">
     <a href="https://github.com/aniladhikaritech">
       <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
@@ -14,11 +19,6 @@
       <img src="https://img.shields.io/badge/Open_To-Projects-00E676?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=071A2F" alt="Open To Projects" />
     </a>
   </p>
-
-  <br/>
-
-  <!-- Dynamic Animated SVG Header Banner -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&animation=twinkling&v=21" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
 
   <br/>
 

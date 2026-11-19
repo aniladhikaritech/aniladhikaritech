@@ -44,12 +44,12 @@
 ### ✍️ Short Introduction
 
 > [!TIP]
-> - 🛡️ Hackers don't always break systems; sometimes, they simply understand people better.
-> - ⚠️ The strongest security system can still fail because of the weakest human decision.
-> - 🔍 Knowing how something works is good. Knowing how it can fail is better.
-> - 🔑 Your password isn't strong just because you can't remember it.
-> - 🌐 If a service is free, think twice about what you're paying with.
 > - 🚫 Just because you can click it doesn't mean you should.
+> - 🌐 If a service is free, think twice about what you're paying with.
+> - 🔑 Your password isn't strong just because you can't remember it.
+> - 🔍 Knowing how something works is good. Knowing how it can fail is better.
+> - ⚠️ The strongest security system can still fail because of the weakest human decision.
+> - 🛡️ Hackers don't always break systems; sometimes, they simply understand people better.
 >
 > 💡 $\color{red}{\textbf{\textsf{"Driven by curiosity, committed to continuous learning, and passionate about building a more secure digital world."}}}$  
 >

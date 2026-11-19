@@ -75,7 +75,8 @@
 🛡️ Fields: Offensive & Defensive Cybersecurity | Digital Forensics | Network Security | Information Security
 💼 Current Status: Cybersecurity Student | Actively Learning Ethical Hacking, Network Security & Digital Forensics
 🏅 Certifications: (ISC)² Certified in Cybersecurity (CC) | Cisco Ethical Hacker, Networking & Operating Systems | APIsec
-🎯 Current Focus: Strengthening Cybersecurity Fundamentals | Developing Practical Ethical Hacking & Penetration Testing Skills | Exploring Digital Forensics, Network Security & Security Auditing | Practising Through Hands-on Labs & Security Projects
+🎯 Current Focus: Strengthening Cybersecurity Fundamentals | Developing Practical Ethical Hacking & Penetration Testing Skills |
+   Exploring Digital Forensics, Network Security & Security Auditing | Practising Through Hands-on Labs & Security Projects
 ```
 
 - 🔭 **I’m currently working on**: Web Development & UI/UX prototyping at **Softechpark Company**, building modern web tools & interactive web applications.

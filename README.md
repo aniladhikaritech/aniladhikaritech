@@ -4,21 +4,21 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Profile Visitor Counter & Status Badges (Smooth Rounded/Oval Style) -->
+  <!-- Profile Visitor Counter & Status Badges (Cyber Bold Style) -->
   <p align="center">
     <a href="https://github.com/aniladhikaritech">
-      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=flat&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/aniladhikaritech?tab=repositories">
-      <img src="https://img.shields.io/badge/Open_To-Projects-brightgreen?style=flat&logo=github&logoColor=white" alt="Open To Projects" />
+      <img src="https://img.shields.io/badge/Open_To-Projects-00E676?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=071A2F" alt="Open To Projects" />
     </a>
   </p>
 
   <br/>
 
   <!-- Dynamic Animated SVG Header Banner -->
-  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&v=19" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=19" alt="Typing SVG" /></a>
+  <a href="https://anil-adhikari.com.np/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:184E77,100:071A2F&height=210&section=header&text=Hi%20There-nl-I%E2%80%99m%20%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7-nl-Cybersecurity%20%E2%80%A2%20Computer%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=18,34,50&desc=%E2%9C%A8%20Welcome%20to%20my%20Official%20GitHub%20Profile%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50&animation=twinkling&v=21" alt="Anil Adhikari Banner" width="100%"/></a><a href="https://anil-adhikari.com.np/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=28&lines=Web+Developer+Intern+%40+Softechpark+%26+Figma;Cybersecurity%2C+Digital+Forensics+%26+Auditing;BSc+(Hons)+Ethical+Hacking+%26+Cybersecurity+Student;Computer+Engineering+%26+Network+Specialist;Python+Automation+%26+Hardware+Pentester+(BadUSB)&v=21" alt="Typing SVG" /></a>
 
   <br/>
 
@@ -320,10 +320,10 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Overall Stats & Top Languages Side-by-Side -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7's%20GitHub%20Stats&show_icons=true&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&border_color=184E77&count_private=true&hide_border=false" alt="✧ ANIL ADHIKARI ✧'s GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7's%20GitHub%20Stats&show_icons=true&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&border_color=184E77&border_radius=12&count_private=true&hide_border=false" alt="✧ ANIL ADHIKARI ✧'s GitHub Stats" />
   </a>
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=compact&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&hide_border=false" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=compact&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&border_radius=12&hide_border=false" alt="Top Languages" />
   </a>
 </div>
 
@@ -335,7 +335,7 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://streak-stats.demolab.com?user=aniladhikaritech&background=071A2F&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=184E77&stroke=00F2FE&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00F2FE&hide_border=false" alt="GitHub Streak Stats" />
+    <img width="98%" src="https://streak-stats.demolab.com?user=aniladhikaritech&background=071A2F&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=184E77&border_radius=12&stroke=00F2FE&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00F2FE&hide_border=false" alt="GitHub Streak Stats" />
   </a>
 </div>
 
@@ -362,7 +362,7 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Activity Contribution Graph -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7%20Contribution%20Graph&bg_color=071A2F&color=00F2FE&line=00F2FE&point=FFFFFF&area=false&hide_border=false&border_color=184E77" alt="✧ ANIL ADHIKARI ✧ Contribution Graph" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7%20Contribution%20Graph&bg_color=071A2F&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=false&border_color=184E77&radius=12" alt="✧ ANIL ADHIKARI ✧ Contribution Graph" />
   </a>
 </div>
 

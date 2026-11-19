@@ -310,24 +310,41 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
 <div align="center">
   <!-- GitHub Overall Stats & Top Languages Side-by-Side -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" alt="Anil's GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7's%20GitHub%20Stats&show_icons=true&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&border_color=184E77&count_private=true&include_all_commits=true&hide_border=false" alt="✧ ANIL ADHIKARI ✧'s GitHub Stats" />
   </a>
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=compact&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&hide_border=false" alt="Top Languages" />
   </a>
   
   <br/><br/>
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://streak-stats.demolab.com?user=aniladhikaritech&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+    <img width="98%" src="https://streak-stats.demolab.com?user=aniladhikaritech&background=071A2F&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=184E77&stroke=00F2FE&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00F2FE&hide_border=false" alt="GitHub Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Top Languages Distribution (Donut Breakdown) -->
+  <a href="https://github.com/aniladhikaritech">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/aniladhikaritech">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Commit" />
   </a>
 
   <br/><br/>
 
   <!-- GitHub Activity Contribution Graph -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniladhikaritech&theme=react-dark&hide_border=false" alt="Activity Graph" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniladhikaritech&custom_title=%E2%9C%A7%20ANIL%20ADHIKARI%20%E2%9C%A7%20Contribution%20Graph&bg_color=071A2F&color=00F2FE&line=00F2FE&point=FFFFFF&area=false&hide_border=false&border_color=184E77" alt="✧ ANIL ADHIKARI ✧ Contribution Graph" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Profile Live Summary Details Card -->
+  <a href="https://github.com/aniladhikaritech">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniladhikaritech&theme=2077" alt="Summary Of My GitHub Live Graph" />
   </a>
 
   <br/><br/>

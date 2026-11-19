@@ -9,14 +9,14 @@
 
   <br/><br/>
 
-  <!-- Profile Visitor Counter & Status Badges (Optimal Placement) -->
+  <!-- Profile Visitor Counter & Status Badges (High Contrast & Clear Readability) -->
   <p align="center">
     <a href="https://github.com/aniladhikaritech">
-      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=007ec6&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/aniladhikaritech?tab=repositories">
-      <img src="https://img.shields.io/badge/Open_To-Projects-00E676?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=071A2F" alt="Open To Projects" />
+      <img src="https://img.shields.io/badge/Open_To-Projects-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="Open To Projects" />
     </a>
   </p>
 

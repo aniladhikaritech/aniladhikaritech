@@ -69,15 +69,14 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-Name: Anil Adhikari
-Location: Kathmandu, Nepal 🇳🇵
-Field: Cybersecurity, Digital Forensics, Computer Engineering & Web Development
-Degree: BSc (Hons) Ethical Hacking & Cybersecurity | Diploma in Computer Engineering
-Current Role: Web Developer Intern @ Softechpark Company & Figma Prototyping
-Certifications: (ISC)² CC | Cisco Ethical Hacker | Cisco Networking & OS | APIsec ACP
-Current Goal: Mastering Google IT Automation with Python Professional & Advanced VAPT
-```
+| Icon | Details |
+| :---: | :--- |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/location.svg" width="22" height="22" alt="Location" /> | **Location:** Kathmandu, Nepal 🇳🇵 |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/shield.svg" width="22" height="22" alt="Fields of Interest" /> | **Fields of Interest:** Offensive & Defensive Cybersecurity \| Digital Forensics \| Network Security \| Information Security |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/education.svg" width="22" height="22" alt="Education" /> | **Education:** BSc (Hons) Ethical Hacking & Cybersecurity \| Higher School Computer Engineering |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/status.svg" width="22" height="22" alt="Current Status" /> | **Current Status:** Cybersecurity Student \| Actively Learning Ethical Hacking, Network Security & Digital Forensics |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/certifications.svg" width="22" height="22" alt="Certifications" /> | **Certifications:** (ISC)² Certified in Cybersecurity (CC) \| Cisco Ethical Hacker, Networking & Operating Systems \| APIsec |
+| <img src="https://raw.githubusercontent.com/aniladhikaritech/aniladhikaritech/main/assets/icons/about/focus.svg" width="22" height="22" alt="Current Focus" /> | **Current Focus:** Strengthening Cybersecurity Fundamentals \| Developing Practical Ethical Hacking & Penetration Testing Skills \| Exploring Digital Forensics, Network Security & Security Auditing \| Practising Through Hands-on Labs & Security Projects |
 
 - 🔭 **I’m currently working on**: Web Development & UI/UX prototyping at **Softechpark Company**, building modern web tools & interactive web applications.
 - 🌱 **I’m currently learning**: **Google IT Automation with Python Professional**, AI-driven SOC operations, and advanced network penetration testing.

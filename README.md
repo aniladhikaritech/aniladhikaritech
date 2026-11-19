@@ -4,14 +4,14 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Profile Visitor Counter & Status Badges (Top Placement) -->
+  <!-- Profile Visitor Counter & Status Badges (Smooth Rounded/Oval Style) -->
   <p align="center">
     <a href="https://github.com/aniladhikaritech">
-      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=for-the-badge&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=aniladhikaritech&color=00F2FE&style=flat&label=%F0%9F%91%81%20PROFILE%20VIEWS" alt="Profile Views" />
     </a>
     &nbsp;
     <a href="https://github.com/aniladhikaritech?tab=repositories">
-      <img src="https://img.shields.io/badge/Open_To-Projects-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open To Projects" />
+      <img src="https://img.shields.io/badge/Open_To-Projects-brightgreen?style=flat&logo=github&logoColor=white" alt="Open To Projects" />
     </a>
   </p>
 
@@ -417,3 +417,4 @@ Current Goal: Mastering Google IT Automation with Python Professional & Advanced
     </a>
   </p>
 </div>
+ 

@@ -43,7 +43,8 @@
 
 ### ✍️ Short Introduction
 
-> 💡 &nbsp;$\color{red}{\large\textbf{\textsf{"I am an energetic multitasker dedicated to learning something new every single day."}}}$  
+> [!TIP]
+> 💡 $\color{red}{\textbf{\textsf{"I am an energetic multitasker dedicated to learning something new every single day."}}}$  
 >
 > Based in **Kathmandu, Nepal 🇳🇵**, I am currently pursuing a **BSc (Hons) in Ethical Hacking and Cybersecurity** at **Softwarica College of IT & E-Commerce**, in collaboration with **Coventry University, UK**, with an academic foundation in **Computer Engineering**.  
 >

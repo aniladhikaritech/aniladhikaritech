@@ -81,19 +81,19 @@
 
 - 🤝 **Looking to collaborate on**: **Open-Source Cybersecurity Tools**, **VAPT Labs**, **Hardware Hacking** *(Arduino BadUSB / HID Injection)*, and **Python Automation Projects**.
 
-- 🎯 **Looking to learn more about**: **Cloud Penetration Testing**, **Binary Exploitation**, **Advanced VAPT**, and **Red Teaming Methodologies**.
+- 🚀 **Looking to learn more about**: **Cloud Penetration Testing**, **Binary Exploitation**, **Advanced VAPT**, and **Red Teaming Methodologies**.
 
 - 💬 **Ask me about**: **Cybersecurity & Ethical Hacking**, **Network Security**, **Computer Hardware**, **Digital Forensics**, and **Information Security**.
 
-- 🔬 **Interested in exploring**: **Emerging Cyber Threats**, **Vulnerability Research**, **Security Testing**, **Hardware Security**, and **Practical Security Solutions**.
+- 🔭 **Interested in exploring**: **Emerging Cyber Threats**, **Vulnerability Research**, **Security Testing**, **Hardware Security**, and **Practical Security Solutions**.
 
-- 🛠️ **Hands-on learning**: **Cybersecurity Labs**, **Network Analysis**, **Linux Environments**, **Penetration Testing Exercises**, and **Python-Based Automation**.
+- 💻 **Hands-on learning**: **Cybersecurity Labs**, **Network Analysis**, **Linux Environments**, **Penetration Testing Exercises**, and **Python-Based Automation**.
 
 - 🌱 **Currently learning**: **Penetration Testing**, **Security Fundamentals**, **Python Automation**, and **Digital Forensics**.
 
-- 🌐 **Knowledge sharing**: Always interested in exchanging technical knowledge, discussing new technologies, and learning from the **Cybersecurity Community**.
+- 💡 **Knowledge sharing**: Always interested in exchanging technical knowledge, discussing new technologies, and learning from the **Cybersecurity Community**.
 
-- 📫 **How to reach me**: Drop a message via contact form at <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>Portfolio</b></a> or connect on <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>LinkedIn</b></a>.
+- 📩 **How to reach me**: Drop a message via contact form at <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>Portfolio</b></a> or connect on <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>LinkedIn</b></a>.
 
 - ⚡ **Fun fact**: *A curious mind, a calm personality, and an endless passion for technology — usually fueled by black coffee, terminal screens, packet captures, and microcontrollers!* ☕⚡
 

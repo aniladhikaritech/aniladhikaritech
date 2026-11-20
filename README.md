@@ -93,7 +93,7 @@
 
 - 🌐 **Knowledge sharing**: Always interested in exchanging technical knowledge, discussing new technologies, and learning from the **Cybersecurity Community**.
 
-- 📫 **How to reach me**: Drop a message via contact form at [**anil-adhikari.com.np**](https://anil-adhikari.com.np/) or connect on [**LinkedIn**](https://www.linkedin.com/in/aniladhikaritech/).
+- 📫 **How to reach me**: Drop a message via contact form at <a href="https://anil-adhikari.com.np/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>Portfolio</b></a> or connect on <a href="https://www.linkedin.com/in/aniladhikaritech/" target="_blank" rel="noreferrer" style="text-decoration: none;"><b>LinkedIn</b></a>.
 
 - ⚡ **Fun fact**: *A curious mind, a calm personality, and an endless passion for technology — usually fueled by black coffee, terminal screens, packet captures, and microcontrollers!* ☕⚡
 

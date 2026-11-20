@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="16" viewBox="0 0 62 16" fill="none">
+  <style>
+    .link-text {
+      fill: #58a6ff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      transition: fill 0.15s ease;
+    }
+    .link-text:hover {
+      fill: #79c0ff;
+    }
+    @media (prefers-color-scheme: light) {
+      .link-text { fill: #0969da; }
+      .link-text:hover { fill: #0550ae; }
+    }
+  </style>
+  <text x="0" y="13" class="link-text">LinkedIn</text>
+</svg>

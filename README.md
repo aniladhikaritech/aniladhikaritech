@@ -122,48 +122,48 @@
 
 #### 🛡️ Cybersecurity, VAPT & Ethical Hacking
 <p>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="20" height="20" alt="Kali Linux" /> <b>Kali Linux</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="20" height="20" alt="Burp Suite" /> <b>Burp Suite</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/007ACC" width="20" height="20" alt="Metasploit" /> <b>Metasploit</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="20" height="20" alt="Wireshark" /> <b>Wireshark</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Nmap" /> <b>Nmap</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="20" height="20" alt="OWASP" /> <b>OWASP Top 10</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/hashcat/E65100" width="20" height="20" alt="Hashcat" /> <b>Hashcat</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/snort/8CAAE6" width="20" height="20" alt="Snort" /> <b>Snort IDS</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="API Security" /> <b>API Security</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Kali Linux" /> <b>Kali Linux</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Burp Suite" /> <b>Burp Suite</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/007ACC" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Metasploit" /> <b>Metasploit</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Wireshark" /> <b>Wireshark</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Nmap" /> <b>Nmap</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="OWASP" /> <b>OWASP Top 10</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/hashcat/E65100" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Hashcat" /> <b>Hashcat</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/snort/8CAAE6" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Snort" /> <b>Snort IDS</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="API Security" /> <b>API Security</b> &nbsp;•&nbsp;
   🔍 <b>Digital Forensics</b>
 </p>
 
 #### 💻 Programming, Scripting & Automation
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" /> <b>Python</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" alt="Bash" /> <b>Bash Scripting</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="20" height="20" alt="PowerShell" /> <b>PowerShell</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20" alt="C" /> <b>C</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" alt="C++" /> <b>C++</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript" /> <b>JavaScript</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="PHP" /> <b>PHP</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="SQL" /> <b>SQL (MySQL)</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML5" /> <b>HTML5</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" alt="CSS3" /> <b>CSS3</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Python" /> <b>Python</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Bash" /> <b>Bash Scripting</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="PowerShell" /> <b>PowerShell</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="C" /> <b>C</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="C++" /> <b>C++</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="JavaScript" /> <b>JavaScript</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="PHP" /> <b>PHP</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="SQL" /> <b>SQL (MySQL)</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="HTML5" /> <b>HTML5</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="CSS3" /> <b>CSS3</b>
 </p>
 
 #### 🌐 Web Development & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" /> <b>React</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" height="20" alt="Vite" /> <b>Vite</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" alt="Tailwind CSS" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" alt="Node.js" /> <b>Node.js</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="20" height="20" alt="WordPress" /> <b>WordPress</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="REST APIs" /> <b>REST APIs</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="React" /> <b>React</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Vite" /> <b>Vite</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Tailwind CSS" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Node.js" /> <b>Node.js</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="WordPress" /> <b>WordPress</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="REST APIs" /> <b>REST APIs</b>
 </p>
 
 #### 🔌 Computer Hardware, Networking & Microcontrollers
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20" alt="Arduino" /> <b>Arduino Pro Micro (ATmega32U4)</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="20" height="20" alt="ESP32" /> <b>ESP32 IoT</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="20" height="20" alt="Raspberry Pi" /> <b>Raspberry Pi</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20" height="20" alt="Cisco" /> <b>Cisco Packet Tracer</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Arduino" /> <b>Arduino Pro Micro (ATmega32U4)</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="ESP32" /> <b>ESP32 IoT</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Raspberry Pi" /> <b>Raspberry Pi</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Cisco" /> <b>Cisco Packet Tracer</b> &nbsp;•&nbsp;
   ⚡ <b>BadUSB / HID Injection</b> &nbsp;•&nbsp;
   🌐 <b>TCP/IP & VLAN Subnetting</b> &nbsp;•&nbsp;
   🔌 <b>Structured Cabling (T568B)</b> &nbsp;•&nbsp;
@@ -172,23 +172,23 @@
 
 #### 🎨 UI/UX & Graphic Design
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" alt="Figma" /> <b>Figma</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="20" height="20" alt="Photoshop" /> <b>Adobe Photoshop</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="20" height="20" alt="Illustrator" /> <b>Adobe Illustrator</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="20" alt="Canva" /> <b>Canva</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="20" height="20" alt="Adobe XD" /> <b>Adobe XD</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Figma" /> <b>Figma</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="Photoshop" /> <b>Adobe Photoshop</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="Illustrator" /> <b>Adobe Illustrator</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Canva" /> <b>Canva</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="24" height="24" style="border-radius: 50%; vertical-align: -6px;" alt="Adobe XD" /> <b>Adobe XD</b>
 </p>
 
 #### ☁️ DevOps, Systems & Cloud Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker" /> <b>Docker</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git" /> <b>Git</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" /> <b>GitHub</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VS Code" /> <b>VS Code</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20" alt="Ubuntu" /> <b>Linux Ubuntu</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="20" height="20" alt="VMware" /> <b>VMware Workstation</b> &nbsp;•&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" alt="Azure" /> <b>Microsoft Azure</b> &nbsp;•&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="20" height="20" alt="Google" /> <b>Google IT Automation</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Docker" /> <b>Docker</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Git" /> <b>Git</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="GitHub" /> <b>GitHub</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="VS Code" /> <b>VS Code</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Ubuntu" /> <b>Linux Ubuntu</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="VMware" /> <b>VMware Workstation</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Azure" /> <b>Microsoft Azure</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="20" height="20" style="border-radius: 50%; background: #21262d; padding: 4px; vertical-align: -6px;" alt="Google" /> <b>Google IT Automation</b>
 </p>
 
 </div>

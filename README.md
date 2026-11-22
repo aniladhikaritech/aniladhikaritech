@@ -112,7 +112,6 @@
 | 🤖 **TechSense AI & Cybersecurity Capstone** | **Softwarica College & IoA** | Endorsed by IoA (DeepGuard AI) |
 | 🚀 **Universal Acceptance Hackathon Nepal** | **ICANN & CAN Federation** | Pioneering UA-Ready Platforms |
 | ⚡ **Flash Hack — EU Youth Fest Hackathon** | **European Union (UDAAN)** | Rapid Innovation Prototyping |
-| 🛠️ **5-Month Computer Engineering OJT** | **Bal Uddhar Secondary School** | Hardware, Cabling & Network Admin |
 
 ---
 

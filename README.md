@@ -118,81 +118,14 @@
 
 ### 🛠️ Languages, Tools & Technologies
 
-<div align="center">
-
-#### 🛡️ Cybersecurity, VAPT & Ethical Hacking
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-12181E?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-004080?style=flat&logo=linux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Hashcat-E65100?style=flat&logo=hashcat&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/Snort_IDS-8CAAE6?style=flat&logo=snort&logoColor=black" alt="Snort" />
-  <img src="https://img.shields.io/badge/API_Security-FF7043?style=flat&logo=fastapi&logoColor=white" alt="API Security" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-2B3A42?style=flat&logo=target&logoColor=white" alt="Forensics" />
-</p>
-
-#### 💻 Programming, Scripting & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🌐 Web Development & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white" alt="REST APIs" />
-</p>
-
-#### 🔌 Computer Hardware, Networking & Microcontrollers
-<p>
-  <img src="https://img.shields.io/badge/Arduino_Pro_Micro-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/BadUSB_%2F_HID_Injection-E95420?style=flat&logo=usb&logoColor=white" alt="BadUSB" />
-  <img src="https://img.shields.io/badge/TCP/IP_%26_VLAN_Subnetting-008080?style=flat&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Structured_Cabling_(T568B)-4682B4?style=flat&logo=ethernet&logoColor=white" alt="Cabling" />
-  <img src="https://img.shields.io/badge/Hardware_Assembly_%26_Repair-333333?style=flat&logo=gnubash&logoColor=white" alt="Hardware Repair" />
-</p>
-
-#### 🎨 UI/UX & Graphic Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-</p>
-
-#### ☁️ DevOps, Systems & Cloud Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_IT_Automation-4285F4?style=flat&logo=google&logoColor=white" alt="Google" />
-</p>
-
-</div>
+| Domain Specialization | Verified Tools & Technical Arsenal |
+| :--- | :--- |
+| 🛡️ **Cybersecurity, VAPT & Forensics**<br><sub>*Offensive penetration testing, exploit frameworks, packet analysis & auditing*</sub> | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-12181E?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Nmap-004080?style=flat&logo=linux&logoColor=white" alt="Nmap" /> <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" /> <img src="https://img.shields.io/badge/Hashcat-E65100?style=flat&logo=hashcat&logoColor=white" alt="Hashcat" /> <img src="https://img.shields.io/badge/Snort_IDS-8CAAE6?style=flat&logo=snort&logoColor=black" alt="Snort" /> <img src="https://img.shields.io/badge/API_Security-FF7043?style=flat&logo=fastapi&logoColor=white" alt="API Security" /> <img src="https://img.shields.io/badge/Digital_Forensics-2B3A42?style=flat&logo=target&logoColor=white" alt="Forensics" /> |
+| 💻 **Programming & Automation**<br><sub>*Custom security tooling, automation pipelines, systems programming & queries*</sub> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /> |
+| 🌐 **Web Development & Frameworks**<br><sub>*Full-stack architectures, modern reactive frontends & secure RESTful APIs*</sub> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white" alt="REST APIs" /> |
+| 🔌 **Hardware, Networking & Microcontrollers**<br><sub>*Keystroke injection (HID), microcontroller payloads & enterprise cabling*</sub> | <img src="https://img.shields.io/badge/Arduino_Pro_Micro-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco" /> <img src="https://img.shields.io/badge/BadUSB_%2F_HID_Injection-E95420?style=flat&logo=usb&logoColor=white" alt="BadUSB" /> <img src="https://img.shields.io/badge/TCP/IP_%26_VLAN_Subnetting-008080?style=flat&logo=cisco&logoColor=white" alt="Networking" /> <img src="https://img.shields.io/badge/Structured_Cabling_(T568B)-4682B4?style=flat&logo=ethernet&logoColor=white" alt="Cabling" /> <img src="https://img.shields.io/badge/Hardware_Assembly_%26_Repair-333333?style=flat&logo=gnubash&logoColor=white" alt="Hardware Repair" /> |
+| 🎨 **UI/UX & Graphic Design**<br><sub>*High-fidelity vector design, user experience wireframes & interactive prototypes*</sub> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" /> |
+| ☁️ **DevOps, Systems & Cloud Tools**<br><sub>*Containerized CTF labs, hypervisors, Git version control & cloud infrastructure*</sub> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" /> <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white" alt="Hyper-V" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google_IT_Automation-4285F4?style=flat&logo=google&logoColor=white" alt="Google" /> |
 
 ---
 

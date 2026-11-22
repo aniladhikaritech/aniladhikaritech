@@ -260,16 +260,16 @@
 
 <br/>
 
-#### 🍩 3. Detailed Code Language Distribution & Metric Share
-*Comprehensive visual distribution of all programming languages calculated by total lines of code and bytes across public repositories.*
+#### 🍩 3. Detailed Language Distribution (Repo vs Commit)
+*Visual distribution of programming languages calculated by total repositories created versus total commits pushed.*
 
 <div align="center">
-  <!-- Top Languages Distribution (Donut & Pie Breakdown) -->
+  <!-- Top Languages Distribution (Donut Breakdown) -->
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=donut&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&border_radius=12&hide_border=false" alt="Top Languages Donut Breakdown" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Repo" />
   </a>
   <a href="https://github.com/aniladhikaritech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikaritech&layout=pie&bg_color=071A2F&title_color=00F2FE&text_color=FFFFFF&border_color=184E77&border_radius=12&hide_border=false" alt="Top Languages Pie Breakdown" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniladhikaritech&theme=2077" alt="Top Languages by Commit" />
   </a>
 </div>
 

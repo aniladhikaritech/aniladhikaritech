@@ -247,8 +247,6 @@
 
 ### 📊 GitHub Activity & Statistics
 
-<br/>
-
 #### 📌 1. Overall GitHub Performance & Most Used Languages
 *Real-time breakdown of overall repository metrics, total commits, pull requests, issues, and primary programming languages.*
 

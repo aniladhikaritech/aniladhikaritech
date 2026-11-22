@@ -118,97 +118,14 @@
 
 ### 🛠️ Languages, Tools & Technologies
 
-<div align="center">
-
-<!-- 🛡️ Cybersecurity, Forensics & Ethical Hacking -->
-<h4>🛡️ Cybersecurity, VAPT & Digital Forensics</h4>
-<p><sub><i>Offensive penetration testing, exploit frameworks, packet analysis & threat auditing</i></sub></p>
-<p>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
-  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" /></a>
-  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-12181E?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
-  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
-  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-004080?style=flat&logo=linux&logoColor=white" alt="Nmap" /></a>
-  <br/>
-  <a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" /></a>
-  <a href="https://hashcat.net/"><img src="https://img.shields.io/badge/Hashcat-E65100?style=flat&logo=hashcat&logoColor=white" alt="Hashcat" /></a>
-  <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/Snort_IDS-8CAAE6?style=flat&logo=snort&logoColor=black" alt="Snort" /></a>
-  <a href="https://university.apisec.ai/"><img src="https://img.shields.io/badge/API_Security-FF7043?style=flat&logo=fastapi&logoColor=white" alt="API Security" /></a>
-  <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Digital_Forensics-2B3A42?style=flat&logo=target&logoColor=white" alt="Forensics" /></a>
-</p>
-
-<!-- 💻 Programming, Scripting & Automation -->
-<h4>💻 Programming, Scripting & Automation</h4>
-<p><sub><i>Custom security tooling, automation pipelines, systems programming & queries</i></sub></p>
-<p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" /></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" /></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /></a>
-  <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
-</p>
-
-<!-- 🌐 Web Development & Frameworks -->
-<h4>🌐 Web Development & Frameworks</h4>
-<p><sub><i>Full-stack architectures, modern reactive frontends & secure RESTful APIs</i></sub></p>
-<p>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" /></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white" alt="REST APIs" /></a>
-</p>
-
-<!-- 🔌 Computer Hardware, Networking & Microcontrollers -->
-<h4>🔌 Computer Hardware, Networking & Microcontrollers</h4>
-<p><sub><i>Keystroke injection (HID), microcontroller payloads, network topology & cabling</i></sub></p>
-<p>
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino_Pro_Micro-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" /></a>
-  <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" /></a>
-  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a>
-  <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/BadUSB_%2F_HID_Injection-E95420?style=flat&logo=usb&logoColor=white" alt="BadUSB" /></a>
-  <br/>
-  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco" /></a>
-  <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/TCP/IP_%26_VLAN_Subnetting-008080?style=flat&logo=cisco&logoColor=white" alt="Networking" /></a>
-  <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Structured_Cabling_(T568B)-4682B4?style=flat&logo=ethernet&logoColor=white" alt="Cabling" /></a>
-  <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Hardware_Assembly_%26_Repair-333333?style=flat&logo=gnubash&logoColor=white" alt="Hardware Repair" /></a>
-</p>
-
-<!-- 🎨 UI/UX & Graphic Design -->
-<h4>🎨 UI/UX & Graphic Design</h4>
-<p><sub><i>High-fidelity vector design, user experience wireframes & interactive prototypes</i></sub></p>
-<p>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator" /></a>
-  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" /></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" /></a>
-</p>
-
-<!-- ☁️ DevOps, Systems & Cloud Tools -->
-<h4>☁️ DevOps, Systems & Cloud Tools</h4>
-<p><sub><i>Containerized CTF labs, hypervisors, Git version control & cloud infrastructure</i></sub></p>
-<p>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
-  <br/>
-  <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" /></a>
-  <a href="https://learn.microsoft.com/virtualization/hyper-v-on-windows/"><img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white" alt="Hyper-V" /></a>
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
-  <a href="https://grow.google/certificates/it-automation/"><img src="https://img.shields.io/badge/Google_IT_Automation-4285F4?style=flat&logo=google&logoColor=white" alt="Google" /></a>
-</p>
-
-</div>
+| Domain Specialization | Verified Tools & Technical Arsenal |
+| :--- | :--- |
+| 🛡️ **Cybersecurity, VAPT & Forensics**<br><sub>*Offensive penetration testing, exploit frameworks, packet analysis & auditing*</sub> | <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" /></a> <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-12181E?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" /></a> <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-004080?style=flat&logo=linux&logoColor=white" alt="Nmap" /></a> <a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" /></a> <a href="https://hashcat.net/"><img src="https://img.shields.io/badge/Hashcat-E65100?style=flat&logo=hashcat&logoColor=white" alt="Hashcat" /></a> <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/Snort_IDS-8CAAE6?style=flat&logo=snort&logoColor=black" alt="Snort" /></a> <a href="https://university.apisec.ai/"><img src="https://img.shields.io/badge/API_Security-FF7043?style=flat&logo=fastapi&logoColor=white" alt="API Security" /></a> <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Digital_Forensics-2B3A42?style=flat&logo=target&logoColor=white" alt="Forensics" /></a> |
+| 💻 **Programming & Automation**<br><sub>*Custom security tooling, automation pipelines, systems programming & queries*</sub> | <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" /></a> <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" /></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /></a> <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a> |
+| 🌐 **Web Development & Frameworks**<br><sub>*Full-stack architectures, modern reactive frontends & secure RESTful APIs*</sub> | <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></a> <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" /></a> <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white" alt="REST APIs" /></a> |
+| 🔌 **Hardware, Networking & Microcontrollers**<br><sub>*Keystroke injection (HID), microcontroller payloads & enterprise cabling*</sub> | <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino_Pro_Micro-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" /></a> <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" /></a> <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a> <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco" /></a> <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/BadUSB_%2F_HID_Injection-E95420?style=flat&logo=usb&logoColor=white" alt="BadUSB" /></a> <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/TCP/IP_%26_VLAN_Subnetting-008080?style=flat&logo=cisco&logoColor=white" alt="Networking" /></a> <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Structured_Cabling_(T568B)-4682B4?style=flat&logo=ethernet&logoColor=white" alt="Cabling" /></a> <a href="https://github.com/aniladhikaritech"><img src="https://img.shields.io/badge/Hardware_Assembly_%26_Repair-333333?style=flat&logo=gnubash&logoColor=white" alt="Hardware Repair" /></a> |
+| 🎨 **UI/UX & Graphic Design**<br><sub>*High-fidelity vector design, user experience wireframes & interactive prototypes*</sub> | <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" /></a> <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator" /></a> <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" /></a> <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" /></a> |
+| ☁️ **DevOps, Systems & Cloud Tools**<br><sub>*Containerized CTF labs, hypervisors, Git version control & cloud infrastructure*</sub> | <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a> <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a> <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" /></a> <a href="https://learn.microsoft.com/virtualization/hyper-v-on-windows/"><img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white" alt="Hyper-V" /></a> <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" /></a> <a href="https://grow.google/certificates/it-automation/"><img src="https://img.shields.io/badge/Google_IT_Automation-4285F4?style=flat&logo=google&logoColor=white" alt="Google" /></a> |
 
 ---
 

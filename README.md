@@ -120,71 +120,75 @@
 
 <div align="center">
 
-#### 🛡️ Cybersecurity, Forensics & Ethical Hacking
+#### 🛡️ Cybersecurity, VAPT & Ethical Hacking
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-12181E?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-004080?style=flat-square&logo=linux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-2B3A42?style=flat-square&logo=target&logoColor=white" alt="Forensics" />
-  <img src="https://img.shields.io/badge/API_Security-FF7043?style=flat-square&logo=fastapi&logoColor=white" alt="API Security" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="20" height="20" alt="Kali Linux" /> <b>Kali Linux</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="20" height="20" alt="Burp Suite" /> <b>Burp Suite</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/007ACC" width="20" height="20" alt="Metasploit" /> <b>Metasploit</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="20" height="20" alt="Wireshark" /> <b>Wireshark</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Nmap" /> <b>Nmap</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="20" height="20" alt="OWASP" /> <b>OWASP Top 10</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/hashcat/E65100" width="20" height="20" alt="Hashcat" /> <b>Hashcat</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/snort/8CAAE6" width="20" height="20" alt="Snort" /> <b>Snort IDS</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="API Security" /> <b>API Security</b> &nbsp;•&nbsp;
+  🔍 <b>Digital Forensics</b>
 </p>
 
-#### 💻 Programming & Scripting Languages
+#### 💻 Programming, Scripting & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" /> <b>Python</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" alt="Bash" /> <b>Bash Scripting</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="20" height="20" alt="PowerShell" /> <b>PowerShell</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20" alt="C" /> <b>C</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" alt="C++" /> <b>C++</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript" /> <b>JavaScript</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="PHP" /> <b>PHP</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="SQL" /> <b>SQL (MySQL)</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML5" /> <b>HTML5</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" alt="CSS3" /> <b>CSS3</b>
 </p>
 
 #### 🌐 Web Development & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" /> <b>React</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" height="20" alt="Vite" /> <b>Vite</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" alt="Tailwind CSS" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" alt="Node.js" /> <b>Node.js</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="20" height="20" alt="WordPress" /> <b>WordPress</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="REST APIs" /> <b>REST APIs</b>
 </p>
 
 #### 🔌 Computer Hardware, Networking & Microcontrollers
 <p>
-  <img src="https://img.shields.io/badge/Hardware_Assembly_%26_Repair-333333?style=flat-square&logo=gnubash&logoColor=white" alt="Hardware Repair" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/TCP/IP_%26_VLAN_Subnetting-008080?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Structured_Cabling_(T568B)-4682B4?style=flat-square&logo=ethernet&logoColor=white" alt="Cabling" />
-  <img src="https://img.shields.io/badge/Arduino_Pro_Micro_(ATmega32U4)-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/BadUSB_%2F_HID_Injection-E95420?style=flat-square&logo=usb&logoColor=white" alt="BadUSB" />
-  <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20" alt="Arduino" /> <b>Arduino Pro Micro (ATmega32U4)</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="20" height="20" alt="ESP32" /> <b>ESP32 IoT</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="20" height="20" alt="Raspberry Pi" /> <b>Raspberry Pi</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20" height="20" alt="Cisco" /> <b>Cisco Packet Tracer</b> &nbsp;•&nbsp;
+  ⚡ <b>BadUSB / HID Injection</b> &nbsp;•&nbsp;
+  🌐 <b>TCP/IP & VLAN Subnetting</b> &nbsp;•&nbsp;
+  🔌 <b>Structured Cabling (T568B)</b> &nbsp;•&nbsp;
+  🛠️ <b>Hardware Assembly & Repair</b>
 </p>
 
 #### 🎨 UI/UX & Graphic Design
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" alt="Figma" /> <b>Figma</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="20" height="20" alt="Photoshop" /> <b>Adobe Photoshop</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="20" height="20" alt="Illustrator" /> <b>Adobe Illustrator</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="20" alt="Canva" /> <b>Canva</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="20" height="20" alt="Adobe XD" /> <b>Adobe XD</b>
 </p>
 
 #### ☁️ DevOps, Systems & Cloud Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_IT_Automation-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Automation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker" /> <b>Docker</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git" /> <b>Git</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" /> <b>GitHub</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VS Code" /> <b>VS Code</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20" alt="Ubuntu" /> <b>Linux Ubuntu</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="20" height="20" alt="VMware" /> <b>VMware Workstation</b> &nbsp;•&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" alt="Azure" /> <b>Microsoft Azure</b> &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="20" height="20" alt="Google" /> <b>Google IT Automation</b>
 </p>
 
 </div>

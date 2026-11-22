@@ -229,20 +229,6 @@
   </tr>
 </table>
 
-<details>
-  <summary><b>🛠️ Click to expand: Everyday Utility Web Tools I've Built & Maintained</b></summary>
-  <br/>
-  <ul>
-    <li>🚀 <b>Tik-Tok Video Downloader:</b> Clean downloader tool without watermark.</li>
-    <li>🗜️ <b>Online Video Compressor:</b> In-browser lightweight video compression utility.</li>
-    <li>📅 <b>Date & Time Converter:</b> Bikram Sambat (BS) to Anno Domini (AD) conversion engine.</li>
-    <li>🔐 <b>Cryptographic Password Generator:</b> Configurable entropy and symbol password tool.</li>
-    <li>🔢 <b>Number to Words / Words to Number Converter:</b> Fast international & South Asian numbering utility.</li>
-    <li>📱 <b>Custom QR Code Generator:</b> Instant WiFi, URL, and vCard QR generator with styling.</li>
-    <li>🎵 <b>MP3 ⇄ MP4 Converter:</b> Multi-format media converter utility.</li>
-  </ul>
-</details>
-
 ---
 
 ### 📊 GitHub Activity & Statistics

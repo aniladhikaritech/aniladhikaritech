@@ -199,7 +199,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🩸 Blood Bank Management System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/OJT-CTEVT%20Grade%2012-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/OJT-NEB%20Grade%2012%20(CE)%20Final%20Project-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/FullStack-PHP%20%26%20MySQL-blue?style=flat-square" />
       </p>
       <p>Full-stack institutional database management system deployed during a 5-month Computer Engineering apprenticeship with complete structured Ethernet cabling laboratory setup.</p>
